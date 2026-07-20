@@ -17,5 +17,4 @@ This project demonstrates alternate blinking of 8 LEDs using the AT89C51 microco
 - STARTUP.A51 – Startup file
 - Circuit.png – Proteus circuit diagram
 
-## Author
-Thulasi Sankar
+
